@@ -1,0 +1,16 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: v4.5.1
+_src_path: https://github.com/jupyterlab/extension-template
+author_email: ''
+author_name: Roblik
+has_ai_rules: false
+has_binder: false
+has_settings: true
+kind: theme
+labextension_name: SmoothBrain_Theme
+project_short_description: A smoothing UI for my shaky-ass&full-of-anxiety brain from
+    the cold-hard-cash programming world
+python_name: SmoothBrain_Theme
+repository: https://github.com/Beelzebufo2001/ThemeJupyterLab.git
+test: true
+
